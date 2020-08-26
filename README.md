@@ -49,4 +49,4 @@ Responsive Twitter UI Clone (partial) for study purposes.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
 ## 📰 Licence
-- MIT
+Please read [LICENSE](LICENSE) for details.
