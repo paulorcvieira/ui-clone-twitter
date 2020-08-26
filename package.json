@@ -1,0 +1,30 @@
+{
+  "name": "ui-clone-twitter",
+  "version": "0.1.0",
+  "private": true,
+  "licence": "MIT",
+  "author": "Paulo Vieira",
+  "github": "https://github.com/paulorcvieira/ui-clone-twitter",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
+    "emotion-theming": "^10.0.27",
+    "next": "9.5.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-sticky-box": "^0.9.3",
+    "styled-components": "^5.1.1",
+    "styled-icons": "^10.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.6.0",
+    "@types/react": "^16.9.46",
+    "@types/styled-components": "^5.1.2",
+    "typescript": "^3.9.7"
+  }
+}
